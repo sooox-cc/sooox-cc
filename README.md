@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @sooox-cc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @sooox-cc
 
-<!---
-sooox-cc/sooox-cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```javascript
+const sooox = {
+    lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
+    aboutMe: ["dev", "privacy advocate", "monero", "osint", "opsec", "cryptography", "self-hosting", "FOSS enthusiast"],
+    technologies: {
+       webApp: ["Laravel", "Livewire", "ASP.NET (MVC)", "Flask", "Vue.js"],
+       backEnd: {
+            php: ["Laravel"],
+            python: ["Flask"],
+            js: ["Node.js"],
+            java: ["Spring"]
+        },
+        frontEnd: {
+            js: ["jQuery", "Vanilla", "Vue", "AlpineJS"],
+            css: ["Tailwind", "Sass", "Bootstrap"],
+            html: ["HTML5", "Blade", "Thymeleaf"]
+        },
+        databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "MariaDB"],
+        misc: ["Supabase", "Docker", "Kubernetes", "NGINX", "GitLab CI", "Apache"],
+        devOps: ["Kubernetes", "Docker", "Vagrant", "Bash", "Jenkins", "Git"],
+        versionControl: ["Git", "GitHub", "GitLab"],
+        ai_ml: ["TensorFlow", "OpenCV", "PyTorch", "scikit-learn", "pandas", "seaborn", "YOLOv8"],
+        tools: ["npm", "phpMyAdmin", "Composer", "Postman", "Photoshop"],
+        gameEngines: ["Unity"],
+        platforms: ["Arch Linux", "Self-hosted solutions", "https://sooox.cc/"],
+    },
+};
+```
