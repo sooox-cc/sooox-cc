@@ -1,5 +1,3 @@
-👋 Hi, I’m @sooox-cc
-
 ```javascript
 const sooox = {
     lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
