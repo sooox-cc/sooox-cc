@@ -1,7 +1,7 @@
 ```javascript
 const sooox = {
     lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
-    aboutMe: ["dev", "privacy advocate", "monero", "osint", "opsec", "cryptography", "self-hosting", "FOSS enthusiast"],
+    aboutMe: ["privacy advocate", "monero", "osint", "opsec", "cryptography", "self-hosting", "FOSS enthusiast"],
     technologies: {
        webApp: ["Laravel", "Livewire", "ASP.NET (MVC)", "Flask", "Vue.js"],
        backEnd: {
