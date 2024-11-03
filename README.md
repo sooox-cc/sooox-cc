@@ -3,7 +3,7 @@ const sooox = {
     lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
     aboutMe: ["privacy advocate", "monero", "osint", "opsec", "cryptography", "self-hosting", "FOSS enthusiast"],
     technologies: {
-       webApp: ["Laravel", "Livewire", "ASP.NET (MVC)", "Flask", "Vue.js", "Node.js"],
+       webApp: ["Laravel", "Livewire", "ASP.NET (MVC)", "Flask", "Vue.js"],
        backEnd: {
             php: ["Laravel"],
             python: ["Flask"],
