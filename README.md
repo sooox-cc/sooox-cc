@@ -1,3 +1,9 @@
+```
+                                             ╱|、
+                   mrrraaaaw               (˚ˎ 。7
+                   sooox here              |、˜〵
+                      ♡♡♡                  じしˍ,)ノ
+```
 ```javascript
 const sooox = {
     lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
