@@ -1,8 +1,8 @@
 ```
-                                            ╱|、
-                   mrrraaaaw              (˚ˎ 。7
-                   sooox here              |、˜〵
-                      ♡♡♡                  じしˍ,)ノ
+                                                                      ╱|、
+                                                                    (˚ˎ 。7
+                                                                     |、˜〵
+                                                                     じしˍ,)ノ
 ```
 ```javascript
 const sooox = {
