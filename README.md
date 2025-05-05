@@ -21,6 +21,10 @@ const sooox = {
             css: ["Tailwind", "Sass", "Bootstrap"],
             html: ["HTML5", "Blade", "Thymeleaf"]
         },
+        dataEngineering: {
+            fabric: ["Pipeline", "Notebooks", "Deployment", "Warehouse", "Lakehouse"]
+            foss: ["Jupyter", "Airflow", "MinIO", "pgAdmin", "Postgres", "Superset", "self hosted"]
+        }
         databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "MariaDB"],
         misc: ["Supabase", "Docker", "Kubernetes", "NGINX", "GitLab CI", "Apache"],
         devOps: ["Kubernetes", "Docker", "Vagrant", "Bash", "Jenkins", "Git"],
