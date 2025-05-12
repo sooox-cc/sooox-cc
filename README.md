@@ -23,7 +23,7 @@ const sooox = {
         },
         dataEngineering: {
             fabric: ["Pipeline", "Notebooks", "Deployment", "Warehouse", "Lakehouse"]
-            foss: ["Jupyter", "Airflow", "MinIO", "Data Build Tool", "pgAdmin", "Postgres", "Superset", "self hosted"]
+            foss: ["Jupyter", "Airflow", "MinIO", "DBT", "pgAdmin", "Postgres", "Superset", "self hosted"]
         }
         databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "MariaDB"],
         misc: ["Supabase", "Docker", "Kubernetes", "NGINX", "GitLab CI", "Apache"],
