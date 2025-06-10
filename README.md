@@ -22,7 +22,7 @@ const sooox = {
             html: ["HTML5", "Blade", "Thymeleaf"]
         },
         dataEngineering: {
-            fabric: ["Pipeline", "Notebooks", "Deployment", "Warehouse", "Lakehouse"]
+            fabric: ["Pipeline", "Notebooks", "Deployment", "Warehouse", "Lakehouse"],
             foss: ["Jupyter", "Airflow", "MinIO", "DBT", "pgAdmin", "Postgres", "Superset", "self hosted"]
         }
         databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "MariaDB"],
