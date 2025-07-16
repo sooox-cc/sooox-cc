@@ -1,39 +1,105 @@
 ```
-                              ╱|、
-                            (˚ˎ 。7
-                             |、˜〵
-                             じしˍ,)ノ
+                                                                                              ╱|、
+                                                                                            (˚ˎ 。7
+                                                                                             |、˜〵
+                                                                                             じしˍ,)ノ
 ```
-```javascript
-const sooox = {
-    lang: ["PHP", "Java", "C#", "Python", "JS", "C++"],
-    aboutMe: ["privacy advocate", "monero", "osint", "opsec", "cryptography", "self-hosting", "FOSS enthusiast"],
-    technologies: {
-       webApp: ["Laravel", "Livewire", "ASP.NET (MVC)", "Flask", "Vue.js"],
-       backEnd: {
-            php: ["Laravel"],
-            python: ["Flask"],
-            js: ["Node.js"],
-            java: ["Spring"]
-        },
-        frontEnd: {
-            js: ["jQuery", "Vanilla", "Vue", "AlpineJS"],
-            css: ["Tailwind", "Sass", "Bootstrap"],
-            html: ["HTML5", "Blade", "Thymeleaf"]
-        },
-        dataEngineering: {
-            fabric: ["Pipeline", "Notebooks", "Deployment", "Warehouse", "Lakehouse"],
-            foss: ["Jupyter", "Airflow", "MinIO", "DBT", "pgAdmin", "Postgres", "Superset", "self hosted"]
-        }
-        databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "MariaDB"],
-        misc: ["Supabase", "Docker", "Kubernetes", "NGINX", "GitLab CI", "Apache"],
-        devOps: ["Kubernetes", "Docker", "Vagrant", "Bash", "Jenkins", "Git"],
-        versionControl: ["Git", "GitHub", "GitLab"],
-        ai_ml: ["TensorFlow", "OpenCV", "PyTorch", "scikit-learn", "pandas", "seaborn", "YOLOv8"],
-        tools: ["npm", "phpMyAdmin", "Composer", "Postman", "Photoshop"],
-        gameEngines: ["Unity"],
-        platforms: ["Arch Linux", "Self-hosted solutions", "https://sooox.cc/"],
-    },
-};
+```mermaid
+---
+config:
+  theme: redux-dark-color
+---
+mindmap
+((Skills))
+  Programming Languages
+    PHP
+    Java
+    C#
+    Python
+    JavaScript
+    C++
+  Web Development
+    Backend
+      Laravel
+      Flask
+      Node.js
+      Spring
+      ASP.NET MVC
+      Livewire
+    Frontend
+      Vue.js
+      jQuery
+      Vanilla JS
+      AlpineJS
+      Tailwind CSS
+      Sass
+      Bootstrap
+      HTML5
+      Blade
+      Thymeleaf
+  Data Engineering
+    Microsoft Fabric
+      Pipeline
+      Notebooks
+      Deployment
+      Warehouse
+      Lakehouse
+    FOSS Tools
+      Jupyter
+      Airflow
+      MinIO
+      dbt
+      pgAdmin
+      Superset
+      Self-hosted
+  AI/ML
+    TensorFlow
+    PyTorch
+    OpenCV
+    scikit-learn
+    pandas
+    seaborn
+    YOLOv8
+  DevOps & Infrastructure
+    Docker
+    Kubernetes
+    NGINX
+    Jenkins
+    Git
+    GitLab CI
+    Apache
+    Vagrant
+    Bash
+    Self-hosting
+  Databases
+    PostgreSQL
+    MySQL
+    SQLite
+    MongoDB
+    MariaDB
+  Privacy & Security
+    OSINT
+    OPSEC
+    Cryptography
+    PGP/GPG
+    TryHackMe
+    Monero
+  Version Control
+    Git
+    GitHub
+    GitLab
+  Tools & Platforms
+    npm
+    phpMyAdmin
+    Composer
+    Postman
+    Photoshop
+    Supabase
+    Unity
+    Arch Linux
+  Personal Values
+    Privacy Advocate
+    FOSS Enthusiast
+    Self-hosting
+    sooox.cc
 ```
-contact me on [matrix](https://matrix.to/#/#dev:matrix.privacymatters.cc)
