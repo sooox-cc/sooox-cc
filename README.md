@@ -1,9 +1,17 @@
+> [!IMPORTANT]
+> **I've mostly stopped using GitHub.** I now use [my own Forgejo instance](https://git.sooox.cc/sooox).
+> Also visit my website, [sooox.cc](https://sooox.cc/)
+
 ```
                                                                                               ╱|、
                                                                                             (˚ˎ 。7
                                                                                              |、˜〵
                                                                                              じしˍ,)ノ
 ```
+
+<details>
+<summary><b>Skills</b></summary>
+
 ```mermaid
 mindmap
     root((Skills))
@@ -70,3 +78,5 @@ mindmap
         PGP/GPG
         TryHackMe
 ```
+
+</details>
